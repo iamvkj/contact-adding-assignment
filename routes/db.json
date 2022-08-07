@@ -1,0 +1,45 @@
+{
+  "contacts": [
+    {
+      "fname": "Vijayant",
+      "lname": "Joshi",
+      "number": "8269016123",
+      "created_at": "2022-06-23T05:34:15.233Z",
+      "id": 1
+    },
+    {
+      "fname": "Vijayant",
+      "lname": "Joshi 2",
+      "number": "8319244290",
+      "created_at": "2022-06-23T05:36:23.963Z",
+      "id": 2
+    },
+    {
+      "fname": "Ayan ",
+      "lname": "Sharma",
+      "number": "6263250232",
+      "created_at": "2022-06-23T05:39:00.213Z",
+      "id": 3
+    },
+    {
+      "fname": "Shubham",
+      "lname": "Gupta",
+      "number": "6263447478",
+      "created_at": "2022-06-23T05:39:33.531Z",
+      "id": 4
+    },
+    {
+      "fname": "Yash",
+      "lname": "Malviya",
+      "number": "7067332696",
+      "created_at": "2022-06-23T05:40:07.259Z",
+      "id": 5
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "text": "your otp is this and this"
+    }
+  ]
+}
